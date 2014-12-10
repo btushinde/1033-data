@@ -7,9 +7,9 @@ Number of full-time sworn officers was obtained for each agency via [crime stati
 
 ### Data
 
-* [Original data from Defense Logistics Agency, filtered for NC (Excel)](https://github.com/wraldata/1033-data)
-* [Equipment distribution matched with count of 2013 full-time sworn officers (CSV)](https://github.com/wraldata/1033-data)
-* [Agency totals per number of officers (CSV)](https://github.com/wraldata/1033-data)
+* [Original data from Defense Logistics Agency, filtered for NC (Excel)](https://github.com/wraldata/1033-data/blob/master/1033_original_NC.xlsx)
+* [Equipment distribution matched with count of 2013 full-time sworn officers (CSV)](https://github.com/wraldata/1033-data/blob/master/1033_distribution.csv)
+* [Agency totals per number of officers (CSV)](https://github.com/wraldata/1033-data/blob/master/1033_per_officer.csv)
 
 ### Stories
 
